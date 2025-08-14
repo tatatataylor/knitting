@@ -5,7 +5,7 @@ this is a place to document things I have worked on and techniques/tools that I 
 ## Invisible bind off for 2x2 ribbing in the round
 *this is exclusively for 2x2 ribbing! go somewhere else if knitting 1x1 or stockinette* 
 
-Sourced from [this tutorial] (https://nurtureknitwear.com/bind-off-kitchener-stitch-for-2x2-ribbing/)
+Sourced from [this tutorial](https://nurtureknitwear.com/bind-off-kitchener-stitch-for-2x2-ribbing/)
 This is also a bad tutorial and I could be doing it all wrong whoops
 
 ### Set up
