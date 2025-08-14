@@ -1,5 +1,5 @@
 # knitting
-things to remember for knitting
+this is a place to document things I have worked on and techniques/tools that I often turn to when knitting
 
 
 ## Invisible bind off for 2x2 ribbing in the round
